@@ -1,0 +1,20 @@
+[{
+  "id": "5436573637",
+  "title": "Love Is Gone",
+  "artist": "Boh",
+  "fileName": "LoveIsGone.mp3",
+  "date": "2022-10-29T21:07:00+00:00",
+  "tags": ["rap", "pop", "beat", "love"],
+  "url2": "http://localhost:3000/api/play/LoveIsGone",
+  "url": "LoveIsGone.mp3"
+},
+  { "id": "111111111111",
+    "title": "Sofia",
+    "artist": "Alvaro Soler",
+    "fileName": "sofia.mp3",
+    "date": "2022-10-29T21:08:00+00:00",
+    "tags": ["pop", "karaoke"],
+    "url2": "http://localhost:3000/api/play/sofia",
+    "url": "src/downloadedMusic/LoveIsGone.mp3"
+
+  }]
